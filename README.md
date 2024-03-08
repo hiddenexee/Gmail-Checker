@@ -6,7 +6,7 @@
 
 - Quick scan (full requests)
 - 100% accurate results
-- No Third Party Apis
+- No third party apis
 - No proxy required
  
 # Contact:
